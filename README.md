@@ -19,9 +19,13 @@ Unlike Microsoft Store, **JGStore** is built with a simple and minimalist interf
 
 ---
 
-## 🌐 Language Note
+## 🌐 Language Support
 
-The user interface is currently available **only in Spanish**.
+- ✅ **English**  
+- ✅ **Português**  
+- ✅ **Español**  
+
+> 📦 The **download server**, which includes programs, descriptions, and additional content, is currently available **only in Spanish**.
 
 ---
 
